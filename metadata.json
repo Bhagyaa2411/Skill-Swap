@@ -1,0 +1,6 @@
+{
+  "name": "PeerMesh - Student Skill & Knowledge Exchange",
+  "description": "A collaborative peer-to-peer learning network for students to connect, barter skills, solve academic challenges, and form study circles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
